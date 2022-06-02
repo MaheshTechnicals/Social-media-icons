@@ -1,3 +1,3 @@
 # Social-media-icons
 
-<img src="ss.jpg">
+<img src="ss.png">
